@@ -1,0 +1,1 @@
+from chainer_minibatch_size_optimizer import minibatch_size_optimizer
